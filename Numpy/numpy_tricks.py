@@ -73,3 +73,4 @@ print(np.flip(item))
 
 #np.put  (put element at specific array )
 # np.put(arrayname,[index01,index02],[elementAtIndex01,elementAtIndex02])
+    
